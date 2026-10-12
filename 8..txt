@@ -1,0 +1,26 @@
+8.
+#include<stdio.h>
+//square of any real number
+
+    int main() {
+        float a;
+        printf("Enter the a");
+        scanf("%f", &a);
+        printf("square = %f", a * a);
+
+        return 0;
+
+    }    
+
+9.#include<stdio.h>
+//cube of any real number
+
+    int main() {
+        float a;
+        printf("Enter the a");
+        scanf("%f", &a);
+        printf("cube = %f", a * a  * a);
+
+        return 0;
+
+    }    

@@ -1,0 +1,31 @@
+4.
+# include<stdio.h>
+//addition of real numbers 
+
+   int main() {
+      float a,b;
+      printf("enter the number a\n");
+      scanf("%f", &a);
+      printf("enter the number b\n");
+      scanf("%f", &b);
+      printf("the sum = %f", a+b);
+      return 0;
+   }
+
+5.
+# include<stdio.h>
+//subtactionn of two real nubers 
+
+int main() {
+    float a,b;
+    printf("enter the number a\n");
+    scanf("%f", &a);
+    printf("enter the number b\n");
+    scanf("%f", &b);
+    printf("The sub = %f", a - b);
+
+    return 0;
+
+}           
+
+
